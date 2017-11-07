@@ -1,1 +1,0 @@
-sfdc_configcomparer_ui
